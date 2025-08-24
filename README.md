@@ -33,14 +33,15 @@ Assistant: [
   { "_id": "Transport", "total": 1200 }
 ]
 ```
+---
 ## 🚀🛠️ Tech Stack
 - Node.js (ESM)
 - MongoDB + Mongoose
 - Groq LLM (Open Source Model)
 - dotenv
 - readline (CLI)
-
-  ##📦 Installation
+---
+  ## 📦 Installation
 
 - 1.**Clone the repository**
 ```bash
@@ -65,7 +66,7 @@ GROQ_API_KEY=your_groq_api_key
 ```bash
 node index.js
 ```
-
+---
 
 ## **📂Project Structure**
 ```bash
@@ -78,6 +79,7 @@ node index.js
 └── README.md             # Project documentation
 
 ```
+---
 ## **📈 Upcoming Features**
 - Web-based dashboard (React.js)
 
@@ -86,7 +88,7 @@ node index.js
 - Budget planning suggestions
 
 - Expense limits and alerts
-
+---
 - ## **🙌 Contributing**
 - Fork the repository.
 
@@ -97,6 +99,6 @@ Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/feature-name).
 
 Open a pull request.
-
+---
 ## **Author**
 - Aditi Gupta
